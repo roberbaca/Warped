@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "458f4b15-d933-496f-86de-5319797636ae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 106,
+  "height": 40,
+  "platformSettings": {},
+  "subMetas": {
+    "hud_lives2": {
+      "ver": "1.0.4",
+      "uuid": "b0ec71a9-6e81-4f62-9c5d-320b03586cff",
+      "rawTextureUuid": "458f4b15-d933-496f-86de-5319797636ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 104,
+      "height": 38,
+      "rawWidth": 106,
+      "rawHeight": 40,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

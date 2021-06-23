@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerBullet",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.85,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": -0.016666666666666666,
+            "value": {
+              "__uuid__": "9c78388e-b7e7-4773-85f7-fef28f672bd5"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "4c040e95-34e6-4fc7-bd3e-0f573ff3fe1a"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "311f9d8d-d225-42fa-bb11-17f76ff595be"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "65c0eace-96f6-4372-94c4-30ffd7710547"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "26358549-1868-41b2-a9a3-a97ada1b0b2f"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "91e5d1c2-a3ba-4ac1-af2a-4aac96950c60"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
